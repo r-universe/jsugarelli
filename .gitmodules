@@ -3,3 +3,53 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "debugr"]
+	path = debugr
+	url = https://github.com/jsugarelli/debugr
+	shallow = true
+	registered = true
+[submodule "flatxml"]
+	path = flatxml
+	url = https://github.com/jsugarelli/flatxml
+	shallow = true
+	registered = true
+[submodule "pointr"]
+	path = pointr
+	url = https://github.com/jsugarelli/pointr
+	shallow = true
+	registered = true
+[submodule "refreshr"]
+	path = refreshr
+	url = https://github.com/jsugarelli/refreshr
+	shallow = true
+	registered = true
+[submodule "shinyfilter"]
+	path = shinyfilter
+	url = https://github.com/jsugarelli/shinyfilter
+	shallow = true
+	registered = true
+[submodule "switchcase"]
+	path = switchcase
+	url = https://github.com/jsugarelli/switchcase
+	shallow = true
+	registered = true
+[submodule "typehint"]
+	path = typehint
+	url = https://github.com/jsugarelli/typehint
+	shallow = true
+	registered = true
+[submodule "xml2relational"]
+	path = xml2relational
+	url = https://github.com/jsugarelli/xml2relational
+	shallow = true
+	registered = true
+[submodule "xmlconvert"]
+	path = xmlconvert
+	url = https://github.com/jsugarelli/xmlconvert
+	shallow = true
+	registered = true
+[submodule "xplain"]
+	path = xplain
+	url = https://github.com/jsugarelli/xplain
+	shallow = true
+	registered = true
