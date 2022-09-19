@@ -1,5 +1,9 @@
 [
   {
+    "package": "debugr",
+    "oncran": true
+  },
+  {
     "package": "flatxml",
     "oncran": true
   },
