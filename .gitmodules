@@ -13,6 +13,11 @@
 	url = https://github.com/jsugarelli/flatxml
 	shallow = true
 	registered = true
+[submodule "packagefinder"]
+	path = packagefinder
+	url = https://github.com/jsugarelli/packagefinder
+	shallow = true
+	registered = true
 [submodule "pointr"]
 	path = pointr
 	url = https://github.com/jsugarelli/pointr

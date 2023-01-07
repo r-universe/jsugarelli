@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "packagefinder",
+    "oncran": true
+  },
+  {
     "package": "pointr",
     "oncran": true
   },
