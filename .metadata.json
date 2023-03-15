@@ -8,15 +8,19 @@
     "oncran": true
   },
   {
+    "package": "packagefinder",
+    "oncran": true
+  },
+  {
     "package": "pointr",
     "oncran": true
   },
   {
-    "package": "shinyfilter",
+    "package": "refreshr",
     "oncran": true
   },
   {
-    "package": "packagefinder",
+    "package": "shinyfilter",
     "oncran": true
   },
   {
@@ -29,10 +33,6 @@
   },
   {
     "package": "xml2relational",
-    "oncran": true
-  },
-  {
-    "package": "refreshr",
     "oncran": true
   },
   {
