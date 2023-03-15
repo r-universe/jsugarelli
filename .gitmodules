@@ -13,24 +13,19 @@
 	url = https://github.com/jsugarelli/flatxml
 	shallow = true
 	registered = true
-[submodule "packagefinder"]
-	path = packagefinder
-	url = https://github.com/jsugarelli/packagefinder
-	shallow = true
-	registered = true
 [submodule "pointr"]
 	path = pointr
 	url = https://github.com/jsugarelli/pointr
 	shallow = true
 	registered = true
-[submodule "refreshr"]
-	path = refreshr
-	url = https://github.com/jsugarelli/refreshr
-	shallow = true
-	registered = true
 [submodule "shinyfilter"]
 	path = shinyfilter
 	url = https://github.com/jsugarelli/shinyfilter
+	shallow = true
+	registered = true
+[submodule "packagefinder"]
+	path = packagefinder
+	url = https://github.com/jsugarelli/packagefinder
 	shallow = true
 	registered = true
 [submodule "switchcase"]
@@ -46,6 +41,11 @@
 [submodule "xml2relational"]
 	path = xml2relational
 	url = https://github.com/jsugarelli/xml2relational
+	shallow = true
+	registered = true
+[submodule "refreshr"]
+	path = refreshr
+	url = https://github.com/jsugarelli/refreshr
 	shallow = true
 	registered = true
 [submodule "xmlconvert"]
