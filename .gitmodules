@@ -23,6 +23,9 @@
 [submodule "switchcase"]
 	path = switchcase
 	url = https://github.com/jsugarelli/switchcase
+[submodule "tagr"]
+	path = tagr
+	url = https://github.com/jsugarelli/tagr
 [submodule "typehint"]
 	path = typehint
 	url = https://github.com/jsugarelli/typehint
