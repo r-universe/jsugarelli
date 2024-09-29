@@ -14,6 +14,9 @@
 [submodule "pointr"]
 	path = pointr
 	url = https://github.com/jsugarelli/pointr
+[submodule "quantification"]
+	path = quantification
+	url = https://github.com/jsugarelli/quantification
 [submodule "refreshr"]
 	path = refreshr
 	url = https://github.com/jsugarelli/refreshr
